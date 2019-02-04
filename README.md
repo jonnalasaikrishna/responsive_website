@@ -1,6 +1,5 @@
 # responsive_website
 
-# PORTFOLIO WEBSITE
 
 ## Project Overview:
 
